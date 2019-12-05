@@ -59,6 +59,7 @@
         .project-description {
             display: flex;
             justify-content: center;
+            padding-bottom: 1rem;
         }
 
         .project-title {
@@ -131,6 +132,7 @@
                 height: 30px;
                 min-width: 20%;
                 max-width: 40%;
+                min-width: 110px;
                 margin: 0 8px 8px 0;
                 border: 1px solid black;
             }
