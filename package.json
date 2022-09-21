@@ -16,7 +16,7 @@
     "nuxt": "^2.0.0",
     "nuxt-material-design-icons": "^1.0.4",
     "vue-material-design-icons": "^4.3.0",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "node-sass": "^4.13.0",
